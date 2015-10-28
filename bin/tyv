@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require "tyv"
+
+driver = Tyv::Driver.new(:provider => Tyv::Provider::Console.new)
+driver.guess
