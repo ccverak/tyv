@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "tyv"
   s.version     = Tyv::VERSION
   s.authors     = ["Carlos Castellanos Vera"]
-  s.email       = ["me@carloscastellanosvera.com>"]
+  s.email       = ["me@carloscastellanosvera.com"]
   s.homepage    = ""
   s.summary     = %q{Cuban version of Toros y Vacas, LoL}
   s.description = %q{One of my very first ruby programs, just having some fun}
